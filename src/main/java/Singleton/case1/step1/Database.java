@@ -1,4 +1,4 @@
-package Singleton.case1;
+package Singleton.case1.step1;
 
 public class Database {
     private static Database singleton;
